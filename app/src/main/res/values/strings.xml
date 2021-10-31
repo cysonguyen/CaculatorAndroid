@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="textSubtend">TextSubtend</string>
+    <string name="textResult">TextResult</string>
+</resources>
